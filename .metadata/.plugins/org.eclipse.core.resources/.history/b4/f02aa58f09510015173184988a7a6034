@@ -1,0 +1,36 @@
+package br.unibh.pessoas.entidades;
+
+import java.sql.Date;
+
+public class PessoaJuridica {
+
+	private String cnpj;
+	private Date dataConstituicao;
+	public String getCnpj() {
+		return cnpj;
+	}
+	public void setCnpj(String cnpj) {
+		this.cnpj = cnpj;
+	}
+	public Date getDataConstituicao() {
+		return dataConstituicao;
+	}
+	public void setDataConstituicao(Date dataConstituicao) {
+		this.dataConstituicao = dataConstituicao;
+	}
+	public String getSite() {
+		return site;
+	}
+	public void setSite(String site) {
+		this.site = site;
+	}
+	private String site;
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

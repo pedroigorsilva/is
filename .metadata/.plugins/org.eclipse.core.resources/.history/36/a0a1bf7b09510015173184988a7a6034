@@ -1,0 +1,18 @@
+package br.unibh.pessoas.entidades;
+
+import java.sql.Date;
+
+public class PessoaJuridica {
+
+	private String cnpj;
+	private Date dataConstituicao;
+	private String site;
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
