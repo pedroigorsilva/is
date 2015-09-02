@@ -34,10 +34,9 @@ public class PessoaJuridica extends Pessoa{
 	public void setSite(String site) {
 		this.site = site;
 	}
-
-	@Override
-	public String toString() {
-		return "PessoaJuridica [cnpj=" + cnpj + ", dataConstituicao="
-				+ dataConstituicao + ", site=" + site + "]";
+	
+	public String toString()
+	{
+		return this.cnpj;
 	}
 }
