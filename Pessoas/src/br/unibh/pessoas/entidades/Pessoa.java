@@ -1,6 +1,6 @@
 package br.unibh.pessoas.entidades;
 
-public class Pessoa {
+public abstract class Pessoa {
 	
 	private Long id;
 	private String nome;

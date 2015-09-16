@@ -1,0 +1,16 @@
+package br.unibh.pessoas;
+
+import org.junit.Test;
+
+import br.unibh.pessoas.persistencia.PessoaFisicaDAO;
+import junit.framework.Assert;
+
+public class Testes {
+
+	@Test
+	public void testePessoaFisicaFindAll(){
+		PessoaFisicaDAO dao = new PessoaFisicaDAO();
+		List<PessoaFisica> lista = dao.findAll();
+		Assert.assertEquals(dao.size(), 100);
+	}
+}

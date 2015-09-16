@@ -10,8 +10,9 @@ public class Main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		PessoaFisica p1 = new PessoaFisica(1l, "Pedro", "Rua Das Flores", "3197394912", "0947274829", "teste@teste.com.br", new Date(), "M");
-		System.out.println(p1);
+		PessoaFisica pf1 = new PessoaFisica (1L ,"João", "Rua A", "3333-222", "11113333446", "joao@gmail.com", new Date(), "M");
+
+		System.out.println(pf1);
 	}
 
 }
