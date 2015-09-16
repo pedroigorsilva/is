@@ -1,0 +1,57 @@
+2015-09-15 21:05:27,389 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pessoas:Pessoas:0.0.1-SNAPSHOT @ /home/pedro/workspace/Pessoas/pom.xml.
+2015-09-15 21:05:27,819 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:05:27,831 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/main/resources
+2015-09-15 21:05:27,834 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:05:27,835 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/test/resources
+2015-09-15 21:05:27,847 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Pessoas/src
+2015-09-15 21:05:27,848 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Pessoas/src/test/java because it overlaps with /Pessoas/src
+2015-09-15 21:05:28,380 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-09-15 21:05:28,732 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pessoas:Pessoas:0.0.1-SNAPSHOT @ /home/pedro/workspace/Pessoas/pom.xml.
+2015-09-15 21:05:28,994 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:05:28,995 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/main/resources
+2015-09-15 21:05:28,998 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:05:28,998 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/test/resources
+2015-09-15 21:05:29,006 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Pessoas/src
+2015-09-15 21:05:29,006 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Pessoas/src/test/java because it overlaps with /Pessoas/src
+2015-09-15 21:05:29,039 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-09-15 21:05:30,045 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:05:30,046 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/main/resources
+2015-09-15 21:05:30,048 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:05:30,048 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/test/resources
+2015-09-15 21:07:15,255 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pessoas:Pessoas:0.0.1-SNAPSHOT @ /home/pedro/workspace/Pessoas/pom.xml.
+2015-09-15 21:07:15,439 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:07:15,440 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/main/resources
+2015-09-15 21:07:15,442 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:07:15,443 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/test/resources
+2015-09-15 21:07:16,517 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:07:16,517 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/main/resources
+2015-09-15 21:07:16,519 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:07:16,519 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/test/resources
+2015-09-15 21:07:25,500 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/pedro/workspace/Pessoas
+2015-09-15 21:07:25,501 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-09-15 21:07:29,368 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:07:29,369 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/main/resources
+2015-09-15 21:07:29,370 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:07:29,371 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/test/resources
+2015-09-15 21:14:48,575 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/pedro/workspace/Pessoas
+2015-09-15 21:14:48,575 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-09-15 21:14:52,886 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:14:52,886 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/main/resources
+2015-09-15 21:14:52,888 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:14:52,888 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/test/resources
+2015-09-15 21:15:06,846 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/pedro/workspace/Pessoas
+2015-09-15 21:15:06,846 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-09-15 21:15:10,574 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:15:10,575 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/main/resources
+2015-09-15 21:15:10,576 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:15:10,576 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/test/resources
+2015-09-15 21:15:15,847 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/pedro/workspace/Pessoas
+2015-09-15 21:15:15,847 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-09-15 21:15:20,020 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:15:20,021 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/main/resources
+2015-09-15 21:15:20,023 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:15:20,024 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/test/resources
+2015-09-15 21:23:46,733 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:23:46,733 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/main/resources
+2015-09-15 21:23:46,735 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-15 21:23:46,736 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/test/resources
