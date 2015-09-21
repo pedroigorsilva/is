@@ -36,6 +36,6 @@ public class Testes {
 		dao.delete(pessoa);
 		
 		PessoaFisica pessoa2 = dao.find("Pedro Igor da Silva");
-		Assert.assertNull(pessoa2);
+		Assert.assertNull(pessoa2.getId());
 	}
 }
