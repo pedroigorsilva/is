@@ -4,6 +4,7 @@ import java.util.Date;
 import java.util.List;
 
 import org.junit.Assert;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import br.unibh.pessoas.entidades.PessoaFisica;
@@ -17,14 +18,14 @@ public class Testes {
 		List<PessoaFisica> lista = dao.findAll();
 		Assert.assertEquals(lista.size(), 100);
 	}
-	
+
 	@Test
 	public void testePessoaFisicaFind(){
 		PessoaFisicaDAO dao = new PessoaFisicaDAO();
 		PessoaFisica pessoa = dao.find(1L);
 		Assert.assertEquals(pessoa.getNome(), "Slade F. Erickson");
 	}
-	
+
 	@Test
 	public void testePessoaFisicaInserirEExcluir(){
 		PessoaFisicaDAO dao = new PessoaFisicaDAO();
@@ -42,12 +43,18 @@ public class Testes {
 	@Test
 	public void testePessoaFisicaUpdateEExcluir(){
 		PessoaFisicaDAO dao = new PessoaFisicaDAO();
-		PessoaFisica p = new PessoaFisica(101l, "Pedro Igor da Silva", "Rua das Flores", "3198574638", "09472618199", "pedro@pedro.com.br", new Date(), "M");
+		PessoaFisica p = new PessoaFisica(101l, "Pedro Igor da Silva", "Rua das Flores, 161", "3158374638", "09437618139", "pedro@pedro2.com.br", new Date(), "M");
 		dao.insert(p);
 		PessoaFisica pessoa = dao.find("Pedro Igor da Silva");
 		Assert.assertEquals(pessoa.getNome(), "Pedro Igor da Silva");
 		
-		dao.delete(pessoa);
+		pessoa.setNome("Pedro Teste");
+		dao.update(pessoa);
+		
+		PessoaFisica pessoaUpdate = dao.find("Pedro Teste");
+		Assert.assertEquals(pessoaUpdate.getNome(), "Pedro Teste");
+		
+		dao.delete(pessoaUpdate);
 		
 		PessoaFisica pessoa2 = dao.find("Pedro Igor da Silva");
 		Assert.assertNull(pessoa2);

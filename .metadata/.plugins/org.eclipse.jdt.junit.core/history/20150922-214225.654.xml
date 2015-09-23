@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Testes" project="Pessoas" tests="4" started="4" failures="0" errors="0" ignored="3">
+  <testsuite name="br.unibh.pessoas.Testes" time="0.427">
+    <testcase name="testePessoaFisicaUpdateEExcluir" classname="br.unibh.pessoas.Testes" time="0.426"/>
+    <testcase name="testePessoaFisicaInserirEExcluir" classname="br.unibh.pessoas.Testes" time="0.0" ignored="true"/>
+    <testcase name="testePessoaFisicaFindAll" classname="br.unibh.pessoas.Testes" time="0.0" ignored="true"/>
+    <testcase name="testePessoaFisicaFind" classname="br.unibh.pessoas.Testes" time="0.001" ignored="true"/>
+  </testsuite>
+</testrun>

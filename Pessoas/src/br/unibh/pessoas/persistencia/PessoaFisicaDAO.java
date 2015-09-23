@@ -103,8 +103,9 @@ public class PessoaFisicaDAO implements DAO<PessoaFisica, Long> {
 	public void update(PessoaFisica t) {
 		try {
 
-			String sql = "UPDATE tb_pessoa_fisica SET"
-					 	+"nome = ?, endereco = ?, telefone = ?, cpf =?, email = ?, data_nascimento = ?, sexo = ?";
+			String sql = "UPDATE tb_pessoa_fisica SET "
+					 	+"nome = ?, endereco = ?, telefone = ?, cpf =?, email = ?, data_nascimento = ?, sexo = ? "
+					 	+"WHERE id = ?";
 			
 			PreparedStatement qb = JDBCUtil.getConnection().prepareStatement(sql);
 			qb.setString(1, t.getNome());
@@ -114,6 +115,7 @@ public class PessoaFisicaDAO implements DAO<PessoaFisica, Long> {
 			qb.setString(5, t.getEmail());
 			qb.setString(6, dateFormat.format(t.getDataNascimento()));
 			qb.setString(7, t.getSexo());
+			qb.setLong(8, t.getId());
 			
 			qb.executeUpdate();
 			
