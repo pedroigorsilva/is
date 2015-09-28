@@ -67,45 +67,4 @@ public class Testes {
 		List<PessoaJuridica> lista = dao.findAll();
 		Assert.assertEquals(lista.size(), 100);
 	}
-	
-	@Test
-	public void testePessoaJuridicaFind(){
-		PessoaJuridicaDAO dao = new PessoaJuridicaDAO();
-		PessoaJuridica pessoa = dao.find(2L);
-		Assert.assertEquals(pessoa.getNome(), "Aladdin R. Buchanan");
-	}
-	
-	@Test
-	public void testePessoaJuridicaInserirEExcluir(){
-		PessoaJuridicaDAO dao = new PessoaJuridicaDAO();
-		PessoaJuridica p = new PessoaJuridica(101l, "Pedro Igor", "Rua das Flores", "3198574638", "09472618199", new Date(), "www.example.com");
-		dao.insert(p);
-		PessoaJuridica pessoa = dao.find("Pedro Igor");
-		Assert.assertEquals(pessoa.getNome(), "Pedro Igor");
-		
-		dao.delete(pessoa);
-		
-		PessoaJuridica pessoa2 = dao.find("Pedro Igor");
-		Assert.assertNull(pessoa2);
-	}
-	
-	@Test
-	public void testePessoaJuridicaUpdateEExcluir(){
-		PessoaJuridicaDAO dao = new PessoaJuridicaDAO();
-		PessoaJuridica p = new PessoaJuridica(101l, "Pedro Igor", "Rua das Flores", "3198574638", "09472618199", new Date(), "www.example.com");
-		dao.insert(p);
-		PessoaJuridica pessoa = dao.find("Pedro Igor");
-		Assert.assertEquals(pessoa.getNome(), "Pedro Igor");
-		
-		pessoa.setNome("Pedro Teste");
-		dao.update(pessoa);
-		
-		PessoaJuridica pessoaUpdate = dao.find("Pedro Teste");
-		Assert.assertEquals(pessoaUpdate.getNome(), "Pedro Teste");
-		
-		dao.delete(pessoaUpdate);
-		
-		PessoaJuridica pessoa2 = dao.find("Pedro Teste");
-		Assert.assertNull(pessoa2);
-	}
 }

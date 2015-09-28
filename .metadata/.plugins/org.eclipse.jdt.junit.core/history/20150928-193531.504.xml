@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Testes" project="Pessoas" tests="8" started="8" failures="0" errors="0" ignored="0">
+  <testsuite name="br.unibh.pessoas.Testes" time="0.574">
+    <testcase name="testePessoaJuridicaFind" classname="br.unibh.pessoas.Testes" time="0.268"/>
+    <testcase name="testePessoaJuridicaUpdateEExcluir" classname="br.unibh.pessoas.Testes" time="0.09"/>
+    <testcase name="testePessoaFisicaUpdateEExcluir" classname="br.unibh.pessoas.Testes" time="0.073"/>
+    <testcase name="testePessoaFisicaInserirEExcluir" classname="br.unibh.pessoas.Testes" time="0.046"/>
+    <testcase name="testePessoaJuridicaFindAll" classname="br.unibh.pessoas.Testes" time="0.021"/>
+    <testcase name="testePessoaJuridicaInserirEExcluir" classname="br.unibh.pessoas.Testes" time="0.043"/>
+    <testcase name="testePessoaFisicaFindAll" classname="br.unibh.pessoas.Testes" time="0.023"/>
+    <testcase name="testePessoaFisicaFind" classname="br.unibh.pessoas.Testes" time="0.01"/>
+  </testsuite>
+</testrun>

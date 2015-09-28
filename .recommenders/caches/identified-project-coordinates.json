@@ -1,1 +1,1 @@
-[[{"location":"/usr/lib/jvm/java-7-openjdk-i386","type":"JRE","hints":{"EXECUTION_ENVIRONMENT":"JavaSE-1.7"}},"jre:jre:1.7.0"],[{"location":"/home/pedro/.m2/repository/junit/junit/4.12/junit-4.12.jar","type":"JAR","hints":{}},"ABSENT"],[{"location":"/home/pedro/workspace/Pessoas","type":"PROJECT","hints":{"PROJECT_NAME":"Pessoas"}},"Pessoas:Pessoas:0.0.1"]]
+[[{"location":"/home/pedro/workspace/Pessoas","type":"PROJECT","hints":{"PROJECT_NAME":"Pessoas"}},"Pessoas:Pessoas:0.0.1"]]

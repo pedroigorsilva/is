@@ -100,8 +100,8 @@ public class PessoaJuridicaDAO implements DAO<PessoaJuridica, Long> {
 	public void update(PessoaJuridica t) {
 		try {
 
-			String sql = "UPDATE tb_pessoa_juridica SET"
-					 	+" nome = ?, endereco = ?, telefone = ?, cnpj =?, data_constituicao = ?, site = ? WHERE id = ?";
+			String sql = "UPDATE tb_pessoa_fisica SET"
+					 	+"nome = ?, endereco = ?, telefone = ?, cnpj =?, data_constituicao = ?, site = ?";
 			
 			PreparedStatement qb = JDBCUtil.getConnection().prepareStatement(sql);
 			qb.setString(1, t.getNome());
@@ -110,7 +110,6 @@ public class PessoaJuridicaDAO implements DAO<PessoaJuridica, Long> {
 			qb.setString(4, t.getCnpj());
 			qb.setString(5, dateFormat.format(t.getDataConstituicao()));
 			qb.setString(6, t.getSite());
-			qb.setLong(7, t.getId());
 			
 			qb.executeUpdate();
 			

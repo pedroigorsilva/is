@@ -12,4 +12,7 @@
 <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
 <fullyQualifiedTypeName name="br.unibh.pessoas.entidades.PessoaFisica"/>
 <fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="org.junit.Ignore"/>
+<fullyQualifiedTypeName name="br.unibh.pessoas.persistencia.PessoaJuridicaDAO"/>
+<fullyQualifiedTypeName name="br.unibh.pessoas.entidades.PessoaJuridica"/>
 </qualifiedTypeNameHistroy>

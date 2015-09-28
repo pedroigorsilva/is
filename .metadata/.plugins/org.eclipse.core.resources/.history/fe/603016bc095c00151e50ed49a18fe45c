@@ -1,5 +1,0 @@
-package br.unibh.pessoas.persistencia;
-
-public class JDBCUtil {
-
-}
