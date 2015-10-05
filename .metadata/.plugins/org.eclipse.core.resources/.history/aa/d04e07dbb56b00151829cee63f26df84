@@ -1,0 +1,8 @@
+package br.unibh.servicospessoas.servicos;
+
+import javax.ws.rs.Path;
+
+@Path("/pessoajuridica")
+public class ServicoPessoaJuridicaRestJson {
+
+}
