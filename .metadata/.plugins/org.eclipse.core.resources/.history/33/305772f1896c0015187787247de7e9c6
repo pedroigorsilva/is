@@ -1,0 +1,22 @@
+package br.unibh.servicospessoas.servicos;
+
+import java.util.List;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+import br.unibh.servicospessoas.entidades.CEP;
+import br.unibh.servicospessoas.persistencia.CEP;
+
+public class ServicoCEPRestJson {
+	
+	@GET
+	@Produces(MediaType.APPLICATION_JSON)
+	@Path("/")
+	public List<CEP> listar(){
+		CEPDAO dao = new CEPDAO();
+		return dao.findAll();
+	}
+}

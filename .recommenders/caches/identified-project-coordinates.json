@@ -1,1 +1,1 @@
-[[{"location":"/usr/lib/jvm/java-7-openjdk-i386","type":"JRE","hints":{"EXECUTION_ENVIRONMENT":"JavaSE-1.6"}},"jre:jre:1.6.0"],[{"location":"/home/pedro/.m2/repository/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar","type":"JAR","hints":{}},"javax.ws.rs:jsr311-api:1.1.1"],[{"location":"/home/pedro/workspace/servicospessoas","type":"PROJECT","hints":{"PROJECT_NAME":"servicospessoas"}},"br.unibh:servicospessoas:0.0.1"]]
+[[{"location":"/usr/lib/jvm/java-7-openjdk-i386","type":"JRE","hints":{"EXECUTION_ENVIRONMENT":"JavaSE-1.6"}},"jre:jre:1.6.0"]]

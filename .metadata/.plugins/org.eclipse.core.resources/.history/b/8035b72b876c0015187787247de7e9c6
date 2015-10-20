@@ -1,0 +1,26 @@
+package br.unibh.servicospessoas.entidades;
+
+public class CEP {
+	private Long cep;
+	private String endereco;
+	private String cidade;
+	
+	public Long getCep() {
+		return cep;
+	}
+	public void setCep(Long cep) {
+		this.cep = cep;
+	}
+	public String getEndereco() {
+		return endereco;
+	}
+	public void setEndereco(String endereco) {
+		this.endereco = endereco;
+	}
+	public String getCidade() {
+		return cidade;
+	}
+	public void setCidade(String cidade) {
+		this.cidade = cidade;
+	}
+}

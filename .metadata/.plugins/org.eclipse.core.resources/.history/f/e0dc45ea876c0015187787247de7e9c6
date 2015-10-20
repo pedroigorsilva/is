@@ -1,0 +1,40 @@
+package br.unibh.servicospessoas.persistencia;
+
+import java.math.BigInteger;
+import java.util.List;
+
+import br.unibh.servicospessoas.entidades.CEP;
+
+public class CEPDAO implements DAO<CEP, BigInteger> {
+
+	@Override
+	public CEP find(BigInteger id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void insert(CEP t) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void update(CEP t) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void delete(CEP t) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<CEP> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
