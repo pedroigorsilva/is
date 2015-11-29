@@ -1,7 +1,0 @@
-package br.unibh.servicospessoas.entidades;
-
-public class CEP {
-	private Long cep;
-	private String endereco;
-	private String cidade;
-}

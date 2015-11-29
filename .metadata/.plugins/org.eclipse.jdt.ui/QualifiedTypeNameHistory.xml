@@ -27,4 +27,10 @@
 <fullyQualifiedTypeName name="javax.ws.rs.PUT"/>
 <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlRootElement"/>
 <fullyQualifiedTypeName name="java.math.BigInteger"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter.DEFAULT"/>
+<fullyQualifiedTypeName name="com.pedro.dao.LoginDao"/>
+<fullyQualifiedTypeName name="com.pedro.dao.JDBCUtil"/>
+<fullyQualifiedTypeName name="com.pedro.entidades.Cliente"/>
+<fullyQualifiedTypeName name="java.lang.Long"/>
+<fullyQualifiedTypeName name="com.pedro.dao.ClienteDAO"/>
 </qualifiedTypeNameHistroy>

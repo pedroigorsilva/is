@@ -1447,3 +1447,420 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact br.unibh:serv
 2015-10-06 22:16:43,113 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/servicospessoas/src/test/resources
 2015-10-06 22:16:50,786 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/pedro/workspace/servicospessoas
 2015-10-06 22:16:50,786 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B exec:java
+2015-11-17 22:12:14,654 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pessoas:Pessoas:0.0.1-SNAPSHOT @ /home/pedro/workspace/Pessoas/pom.xml.
+2015-11-17 22:12:14,654 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pessoas:Pessoas:0.0.1-SNAPSHOT @ /home/pedro/workspace/Pessoas/pom.xml.
+2015-11-17 22:12:16,961 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-17 22:12:16,973 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/main/resources
+2015-11-17 22:12:16,978 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-17 22:12:16,979 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/test/resources
+2015-11-17 22:12:19,432 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pessoas:Pessoas:0.0.1-SNAPSHOT @ /home/pedro/workspace/Pessoas/pom.xml.
+2015-11-17 22:12:20,497 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:servicospessoas:0.0.1-SNAPSHOT @ /home/pedro/workspace/servicospessoas/pom.xml.
+2015-11-17 22:12:20,699 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:servicospessoas:0.0.1-SNAPSHOT @ /home/pedro/workspace/servicospessoas/pom.xml.
+2015-11-17 22:12:23,026 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-17 22:12:23,029 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/servicospessoas/src/main/resources
+2015-11-17 22:12:23,034 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-17 22:12:23,036 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/servicospessoas/src/test/resources
+2015-11-17 22:12:24,810 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pessoas:Pessoas:0.0.1-SNAPSHOT @ /home/pedro/workspace/Pessoas/pom.xml.
+2015-11-17 22:12:25,166 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:servicospessoas:0.0.1-SNAPSHOT @ /home/pedro/workspace/servicospessoas/pom.xml.
+2015-11-17 22:12:25,879 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-17 22:12:25,888 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/main/resources
+2015-11-17 22:12:25,894 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-17 22:12:25,895 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/test/resources
+2015-11-17 22:12:26,030 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-17 22:12:26,030 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/servicospessoas/src/main/resources
+2015-11-17 22:12:26,034 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-17 22:12:26,034 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/servicospessoas/src/test/resources
+2015-11-17 23:36:26,450 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-17 23:36:26,455 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/main/resources
+2015-11-17 23:36:26,459 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-17 23:36:26,460 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/test/resources
+2015-11-17 23:36:26,487 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-17 23:36:26,488 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/servicospessoas/src/main/resources
+2015-11-17 23:36:26,491 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-17 23:36:26,492 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/servicospessoas/src/test/resources
+2015-11-17 23:45:30,327 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-17 23:45:30,335 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/main/resources
+2015-11-17 23:45:30,340 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-17 23:45:30,340 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/test/resources
+2015-11-17 23:45:31,104 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-17 23:45:31,104 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/servicospessoas/src/main/resources
+2015-11-17 23:45:31,107 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-17 23:45:31,108 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/servicospessoas/src/test/resources
+2015-11-18 23:14:16,812 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-18 23:14:16,820 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/main/resources
+2015-11-18 23:14:16,825 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-18 23:14:16,826 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/Pessoas/src/test/resources
+2015-11-18 23:14:17,759 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-18 23:14:17,760 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/servicospessoas/src/main/resources
+2015-11-18 23:14:17,764 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-18 23:14:17,765 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/servicospessoas/src/test/resources
+2015-11-29 09:06:26,975 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/wildfly/archetype/wildfly-javaee7-webapp-archetype/8.2.0.Final/wildfly-javaee7-webapp-archetype-8.2.0.Final.pom
+2015-11-29 09:06:27,175 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/wildfly/archetype/wildfly-javaee7-webapp-archetype/8.2.0.Final/wildfly-javaee7-webapp-archetype-8.2.0.Final.pom
+2015-11-29 09:06:27,497 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/wildfly/archetype/wildfly-javaee7-webapp-archetype/8.2.0.Final/wildfly-javaee7-webapp-archetype-8.2.0.Final.jar
+2015-11-29 09:06:27,811 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/wildfly/archetype/wildfly-javaee7-webapp-archetype/8.2.0.Final/wildfly-javaee7-webapp-archetype-8.2.0.Final.jar
+2015-11-29 09:56:47,150 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.jar
+2015-11-29 09:56:47,296 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.jar
+2015-11-29 09:56:47,441 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.pom
+2015-11-29 09:56:47,582 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.pom
+2015-11-29 09:57:27,242 [Worker-55] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/pedro/workspace/web01/pom.xml
+2015-11-29 09:57:28,467 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.jar
+2015-11-29 09:57:28,916 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.jar
+2015-11-29 09:57:29,970 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:web01:0.0.1-SNAPSHOT @ /home/pedro/workspace/web01/pom.xml.
+2015-11-29 09:57:30,216 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.pom
+2015-11-29 09:57:30,352 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.pom
+2015-11-29 09:57:30,628 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom
+2015-11-29 09:57:30,777 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom
+2015-11-29 09:57:30,923 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+2015-11-29 09:57:31,069 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+2015-11-29 09:57:31,211 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+2015-11-29 09:57:31,350 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+2015-11-29 09:57:31,526 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.pom
+2015-11-29 09:57:31,677 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.pom
+2015-11-29 09:57:31,814 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/10/maven-shared-components-10.pom
+2015-11-29 09:57:31,956 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/10/maven-shared-components-10.pom
+2015-11-29 09:57:32,102 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/9/maven-parent-9.pom
+2015-11-29 09:57:32,251 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/9/maven-parent-9.pom
+2015-11-29 09:57:32,396 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.pom
+2015-11-29 09:57:32,531 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.pom
+2015-11-29 09:57:32,668 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.12/plexus-1.0.12.pom
+2015-11-29 09:57:32,805 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.12/plexus-1.0.12.pom
+2015-11-29 09:57:32,947 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.6/plexus-interpolation-1.6.pom
+2015-11-29 09:57:33,082 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.6/plexus-interpolation-1.6.pom
+2015-11-29 09:57:33,281 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar
+2015-11-29 09:57:34,680 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar
+2015-11-29 09:57:34,816 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+2015-11-29 09:57:35,033 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+2015-11-29 09:57:35,167 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.jar
+2015-11-29 09:57:35,320 [Worker-55] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.jar
+2015-11-29 09:57:36,138 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /web01/src/main/java
+2015-11-29 09:57:36,139 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /web01/src/main/resources
+2015-11-29 09:57:36,140 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /web01/src/test/java
+2015-11-29 09:57:37,859 [Worker-55] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2015-11-29 09:57:38,799 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-29 09:57:38,812 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 09:57:38,818 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-29 09:57:38,819 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/web01/src/test/resources
+2015-11-29 09:58:07,941 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-29 09:58:07,946 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 09:58:07,950 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-29 09:58:07,951 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/web01/src/test/resources
+2015-11-29 09:58:28,140 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/pedro/workspace/web01
+2015-11-29 09:58:28,141 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-11-29 09:58:33,060 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-29 09:58:33,060 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 09:58:33,062 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-29 09:58:33,062 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/web01/src/test/resources
+2015-11-29 10:00:53,252 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-29 10:00:53,253 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 10:00:53,255 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-29 10:00:53,256 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pedro/workspace/web01/src/test/resources
+2015-11-29 10:03:34,755 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/jboss/spec/archetypes/jboss-javaee6-webapp/7.0.2.CR1/jboss-javaee6-webapp-7.0.2.CR1.jar
+2015-11-29 10:03:35,918 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/jboss/spec/archetypes/jboss-javaee6-webapp/7.0.2.CR1/jboss-javaee6-webapp-7.0.2.CR1.jar
+2015-11-29 10:03:36,062 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/jboss/spec/archetypes/jboss-javaee6-webapp/7.0.2.CR1/jboss-javaee6-webapp-7.0.2.CR1.pom
+2015-11-29 10:03:36,204 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/jboss/spec/archetypes/jboss-javaee6-webapp/7.0.2.CR1/jboss-javaee6-webapp-7.0.2.CR1.pom
+2015-11-29 10:03:49,983 [Worker-59] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/pedro/workspace/loja/pom.xml
+2015-11-29 10:03:51,122 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-javaee-web-6.0/2.0.0.Final/jboss-javaee-web-6.0-2.0.0.Final.pom
+2015-11-29 10:03:51,278 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-javaee-web-6.0/2.0.0.Final/jboss-javaee-web-6.0-2.0.0.Final.pom
+2015-11-29 10:03:51,437 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta2/jboss-specs-parent-1.0.0.Beta2.pom
+2015-11-29 10:03:51,590 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta2/jboss-specs-parent-1.0.0.Beta2.pom
+2015-11-29 10:03:51,916 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5/jboss-parent-5.pom
+2015-11-29 10:03:52,071 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5/jboss-parent-5.pom
+2015-11-29 10:03:53,302 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.jboss.org/nexus/content/groups/public/org/jboss/spec/jboss-javaee6-specs-bom/2.0.0.Final/jboss-javaee6-specs-bom-2.0.0.Final.pom
+2015-11-29 10:03:53,604 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.1/maven-compiler-plugin-2.3.1.jar
+2015-11-29 10:03:53,905 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.1/maven-compiler-plugin-2.3.1.jar
+2015-11-29 10:03:54,099 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.4.3/maven-surefire-plugin-2.4.3.jar
+2015-11-29 10:03:54,295 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.4.3/maven-surefire-plugin-2.4.3.jar
+2015-11-29 10:03:54,481 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.1.1/maven-war-plugin-2.1.1.jar
+2015-11-29 10:03:55,027 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.1.1/maven-war-plugin-2.1.1.jar
+2015-11-29 10:03:55,224 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.1/maven-compiler-plugin-2.3.1.pom
+2015-11-29 10:03:55,379 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.3.1/maven-compiler-plugin-2.3.1.pom
+2015-11-29 10:03:55,531 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom
+2015-11-29 10:03:55,686 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom
+2015-11-29 10:03:55,838 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom
+2015-11-29 10:03:55,995 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom
+2015-11-29 10:03:56,149 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom
+2015-11-29 10:03:56,302 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom
+2015-11-29 10:03:56,602 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.8/plexus-compiler-api-1.8.pom
+2015-11-29 10:03:56,756 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.8/plexus-compiler-api-1.8.pom
+2015-11-29 10:03:56,910 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.8/plexus-compiler-1.8.pom
+2015-11-29 10:03:57,073 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.8/plexus-compiler-1.8.pom
+2015-11-29 10:03:57,241 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.17/plexus-components-1.1.17.pom
+2015-11-29 10:03:57,408 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.17/plexus-components-1.1.17.pom
+2015-11-29 10:03:57,566 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.5/plexus-2.0.5.pom
+2015-11-29 10:03:57,717 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.5/plexus-2.0.5.pom
+2015-11-29 10:03:57,882 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.8/plexus-compiler-manager-1.8.pom
+2015-11-29 10:03:58,036 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.8/plexus-compiler-manager-1.8.pom
+2015-11-29 10:03:58,190 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.8/plexus-compiler-javac-1.8.pom
+2015-11-29 10:03:58,350 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.8/plexus-compiler-javac-1.8.pom
+2015-11-29 10:03:58,501 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.8/plexus-compilers-1.8.pom
+2015-11-29 10:03:58,650 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.8/plexus-compilers-1.8.pom
+2015-11-29 10:03:58,821 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.8/plexus-compiler-api-1.8.jar
+2015-11-29 10:03:58,975 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.8/plexus-compiler-api-1.8.jar
+2015-11-29 10:03:59,125 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.8/plexus-compiler-manager-1.8.jar
+2015-11-29 10:03:59,289 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.8/plexus-compiler-manager-1.8.jar
+2015-11-29 10:03:59,437 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.8/plexus-compiler-javac-1.8.jar
+2015-11-29 10:03:59,601 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.8/plexus-compiler-javac-1.8.jar
+2015-11-29 10:03:59,747 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:loja:0.0.1-SNAPSHOT @ /home/pedro/workspace/loja/pom.xml.
+2015-11-29 10:03:59,906 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.pom
+2015-11-29 10:04:00,093 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.pom
+2015-11-29 10:04:00,247 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/17/weld-parent-17.pom
+2015-11-29 10:04:00,545 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/17/weld-parent-17.pom
+2015-11-29 10:04:00,708 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Final/jboss-interceptors-api_1.1_spec-1.0.0.Final.pom
+2015-11-29 10:04:00,860 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Final/jboss-interceptors-api_1.1_spec-1.0.0.Final.pom
+2015-11-29 10:04:01,027 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2015-11-29 10:04:01,199 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2015-11-29 10:04:01,375 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/annotation/jboss-annotations-api_1.1_spec/1.0.0.Final/jboss-annotations-api_1.1_spec-1.0.0.Final.pom
+2015-11-29 10:04:01,530 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/annotation/jboss-annotations-api_1.1_spec/1.0.0.Final/jboss-annotations-api_1.1_spec-1.0.0.Final.pom
+2015-11-29 10:04:01,689 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_1.1_spec/1.0.0.Final/jboss-jaxrs-api_1.1_spec-1.0.0.Final.pom
+2015-11-29 10:04:01,849 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_1.1_spec/1.0.0.Final/jboss-jaxrs-api_1.1_spec-1.0.0.Final.pom
+2015-11-29 10:04:02,009 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.pom
+2015-11-29 10:04:02,161 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.pom
+2015-11-29 10:04:02,317 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/ejb/jboss-ejb-api_3.1_spec/1.0.1.Final/jboss-ejb-api_3.1_spec-1.0.1.Final.pom
+2015-11-29 10:04:02,468 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/ejb/jboss-ejb-api_3.1_spec/1.0.1.Final/jboss-ejb-api_3.1_spec-1.0.1.Final.pom
+2015-11-29 10:04:02,627 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/4.2.0.Final/hibernate-validator-4.2.0.Final.pom
+2015-11-29 10:04:02,799 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/4.2.0.Final/hibernate-validator-4.2.0.Final.pom
+2015-11-29 10:04:02,961 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/4.2.0.Final/hibernate-validator-parent-4.2.0.Final.pom
+2015-11-29 10:04:03,128 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/4.2.0.Final/hibernate-validator-parent-4.2.0.Final.pom
+2015-11-29 10:04:03,286 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.pom
+2015-11-29 10:04:03,450 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.pom
+2015-11-29 10:04:03,650 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-jpamodelgen/1.1.1.Final/hibernate-jpamodelgen-1.1.1.Final.pom
+2015-11-29 10:04:03,800 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-jpamodelgen/1.1.1.Final/hibernate-jpamodelgen-1.1.1.Final.pom
+2015-11-29 10:04:03,959 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2015-11-29 10:04:04,117 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2015-11-29 10:04:04,272 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2015-11-29 10:04:04,427 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2015-11-29 10:04:04,580 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2015-11-29 10:04:04,736 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2015-11-29 10:04:04,906 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/junit/arquillian-junit-container/1.0.0.CR4/arquillian-junit-container-1.0.0.CR4.pom
+2015-11-29 10:04:05,057 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/junit/arquillian-junit-container/1.0.0.CR4/arquillian-junit-container-1.0.0.CR4.pom
+2015-11-29 10:04:05,217 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-build/1.0.0.CR4/arquillian-build-1.0.0.CR4.pom
+2015-11-29 10:04:05,367 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-build/1.0.0.CR4/arquillian-build-1.0.0.CR4.pom
+2015-11-29 10:04:05,543 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-parent/1.0.0.CR4/arquillian-parent-1.0.0.CR4.pom
+2015-11-29 10:04:05,696 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-parent/1.0.0.CR4/arquillian-parent-1.0.0.CR4.pom
+2015-11-29 10:04:05,857 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/6-beta-2/jboss-parent-6-beta-2.pom
+2015-11-29 10:04:06,016 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/6-beta-2/jboss-parent-6-beta-2.pom
+2015-11-29 10:04:06,179 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/junit/arquillian-junit-core/1.0.0.CR4/arquillian-junit-core-1.0.0.CR4.pom
+2015-11-29 10:04:06,333 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/junit/arquillian-junit-core/1.0.0.CR4/arquillian-junit-core-1.0.0.CR4.pom
+2015-11-29 10:04:06,493 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/test/arquillian-test-spi/1.0.0.CR4/arquillian-test-spi-1.0.0.CR4.pom
+2015-11-29 10:04:06,643 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/test/arquillian-test-spi/1.0.0.CR4/arquillian-test-spi-1.0.0.CR4.pom
+2015-11-29 10:04:06,802 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/core/arquillian-core-spi/1.0.0.CR4/arquillian-core-spi-1.0.0.CR4.pom
+2015-11-29 10:04:06,954 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/core/arquillian-core-spi/1.0.0.CR4/arquillian-core-spi-1.0.0.CR4.pom
+2015-11-29 10:04:07,110 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/core/arquillian-core-api/1.0.0.CR4/arquillian-core-api-1.0.0.CR4.pom
+2015-11-29 10:04:07,260 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/core/arquillian-core-api/1.0.0.CR4/arquillian-core-api-1.0.0.CR4.pom
+2015-11-29 10:04:07,419 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-api/1.0.0-beta-5/shrinkwrap-api-1.0.0-beta-5.pom
+2015-11-29 10:04:07,580 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-api/1.0.0-beta-5/shrinkwrap-api-1.0.0-beta-5.pom
+2015-11-29 10:04:07,733 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-parent/1.0.0-beta-5/shrinkwrap-parent-1.0.0-beta-5.pom
+2015-11-29 10:04:07,885 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-parent/1.0.0-beta-5/shrinkwrap-parent-1.0.0-beta-5.pom
+2015-11-29 10:04:08,041 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/test/arquillian-test-api/1.0.0.CR4/arquillian-test-api-1.0.0.CR4.pom
+2015-11-29 10:04:08,192 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/test/arquillian-test-api/1.0.0.CR4/arquillian-test-api-1.0.0.CR4.pom
+2015-11-29 10:04:08,352 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-test-api/1.0.0.CR4/arquillian-container-test-api-1.0.0.CR4.pom
+2015-11-29 10:04:08,511 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-test-api/1.0.0.CR4/arquillian-container-test-api-1.0.0.CR4.pom
+2015-11-29 10:04:08,666 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-test-spi/1.0.0.CR4/arquillian-container-test-spi-1.0.0.CR4.pom
+2015-11-29 10:04:08,816 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-test-spi/1.0.0.CR4/arquillian-container-test-spi-1.0.0.CR4.pom
+2015-11-29 10:04:08,998 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-spi/1.0.0.CR4/arquillian-container-spi-1.0.0.CR4.pom
+2015-11-29 10:04:09,148 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-spi/1.0.0.CR4/arquillian-container-spi-1.0.0.CR4.pom
+2015-11-29 10:04:09,314 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/config/arquillian-config-api/1.0.0.CR4/arquillian-config-api-1.0.0.CR4.pom
+2015-11-29 10:04:09,465 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/config/arquillian-config-api/1.0.0.CR4/arquillian-config-api-1.0.0.CR4.pom
+2015-11-29 10:04:09,625 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-api/1.1.0-alpha-2/shrinkwrap-descriptors-api-1.1.0-alpha-2.pom
+2015-11-29 10:04:09,781 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-api/1.1.0-alpha-2/shrinkwrap-descriptors-api-1.1.0-alpha-2.pom
+2015-11-29 10:04:09,938 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-parent/1.1.0-alpha-2/shrinkwrap-descriptors-parent-1.1.0-alpha-2.pom
+2015-11-29 10:04:10,088 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-parent/1.1.0-alpha-2/shrinkwrap-descriptors-parent-1.1.0-alpha-2.pom
+2015-11-29 10:04:10,253 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/config/arquillian-config-impl-base/1.0.0.CR4/arquillian-config-impl-base-1.0.0.CR4.pom
+2015-11-29 10:04:10,403 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/config/arquillian-config-impl-base/1.0.0.CR4/arquillian-config-impl-base-1.0.0.CR4.pom
+2015-11-29 10:04:10,566 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-spi/1.1.0-alpha-2/shrinkwrap-descriptors-spi-1.1.0-alpha-2.pom
+2015-11-29 10:04:10,718 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-spi/1.1.0-alpha-2/shrinkwrap-descriptors-spi-1.1.0-alpha-2.pom
+2015-11-29 10:04:10,888 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/core/arquillian-core-impl-base/1.0.0.CR4/arquillian-core-impl-base-1.0.0.CR4.pom
+2015-11-29 10:04:11,056 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/core/arquillian-core-impl-base/1.0.0.CR4/arquillian-core-impl-base-1.0.0.CR4.pom
+2015-11-29 10:04:11,220 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/test/arquillian-test-impl-base/1.0.0.CR4/arquillian-test-impl-base-1.0.0.CR4.pom
+2015-11-29 10:04:11,373 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/test/arquillian-test-impl-base/1.0.0.CR4/arquillian-test-impl-base-1.0.0.CR4.pom
+2015-11-29 10:04:11,534 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-impl-base/1.0.0.CR4/arquillian-container-impl-base-1.0.0.CR4.pom
+2015-11-29 10:04:11,683 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-impl-base/1.0.0.CR4/arquillian-container-impl-base-1.0.0.CR4.pom
+2015-11-29 10:04:11,851 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-test-impl-base/1.0.0.CR4/arquillian-container-test-impl-base-1.0.0.CR4.pom
+2015-11-29 10:04:12,011 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-test-impl-base/1.0.0.CR4/arquillian-container-test-impl-base-1.0.0.CR4.pom
+2015-11-29 10:04:12,176 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-impl-base/1.0.0-beta-5/shrinkwrap-impl-base-1.0.0-beta-5.pom
+2015-11-29 10:04:12,335 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-impl-base/1.0.0-beta-5/shrinkwrap-impl-base-1.0.0-beta-5.pom
+2015-11-29 10:04:12,492 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-spi/1.0.0-beta-5/shrinkwrap-spi-1.0.0-beta-5.pom
+2015-11-29 10:04:12,644 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-spi/1.0.0-beta-5/shrinkwrap-spi-1.0.0-beta-5.pom
+2015-11-29 10:04:12,827 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar
+2015-11-29 10:04:13,126 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar
+2015-11-29 10:04:13,283 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Final/jboss-interceptors-api_1.1_spec-1.0.0.Final.jar
+2015-11-29 10:04:13,452 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Final/jboss-interceptors-api_1.1_spec-1.0.0.Final.jar
+2015-11-29 10:04:13,601 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2015-11-29 10:04:13,759 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2015-11-29 10:04:13,908 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/annotation/jboss-annotations-api_1.1_spec/1.0.0.Final/jboss-annotations-api_1.1_spec-1.0.0.Final.jar
+2015-11-29 10:04:14,070 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/annotation/jboss-annotations-api_1.1_spec/1.0.0.Final/jboss-annotations-api_1.1_spec-1.0.0.Final.jar
+2015-11-29 10:04:14,228 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_1.1_spec/1.0.0.Final/jboss-jaxrs-api_1.1_spec-1.0.0.Final.jar
+2015-11-29 10:04:14,532 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_1.1_spec/1.0.0.Final/jboss-jaxrs-api_1.1_spec-1.0.0.Final.jar
+2015-11-29 10:04:14,682 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar
+2015-11-29 10:04:15,146 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar
+2015-11-29 10:04:15,306 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/ejb/jboss-ejb-api_3.1_spec/1.0.1.Final/jboss-ejb-api_3.1_spec-1.0.1.Final.jar
+2015-11-29 10:04:15,496 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/ejb/jboss-ejb-api_3.1_spec/1.0.1.Final/jboss-ejb-api_3.1_spec-1.0.1.Final.jar
+2015-11-29 10:04:15,648 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/4.2.0.Final/hibernate-validator-4.2.0.Final.jar
+2015-11-29 10:04:16,725 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/4.2.0.Final/hibernate-validator-4.2.0.Final.jar
+2015-11-29 10:04:16,873 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar
+2015-11-29 10:04:17,041 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar
+2015-11-29 10:04:17,191 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-jpamodelgen/1.1.1.Final/hibernate-jpamodelgen-1.1.1.Final.jar
+2015-11-29 10:04:17,812 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-jpamodelgen/1.1.1.Final/hibernate-jpamodelgen-1.1.1.Final.jar
+2015-11-29 10:04:17,962 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.jar
+2015-11-29 10:04:19,043 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.jar
+2015-11-29 10:04:19,190 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+2015-11-29 10:04:19,643 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+2015-11-29 10:04:19,806 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/junit/arquillian-junit-container/1.0.0.CR4/arquillian-junit-container-1.0.0.CR4.jar
+2015-11-29 10:04:19,959 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/junit/arquillian-junit-container/1.0.0.CR4/arquillian-junit-container-1.0.0.CR4.jar
+2015-11-29 10:04:20,127 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/junit/arquillian-junit-core/1.0.0.CR4/arquillian-junit-core-1.0.0.CR4.jar
+2015-11-29 10:04:20,287 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/junit/arquillian-junit-core/1.0.0.CR4/arquillian-junit-core-1.0.0.CR4.jar
+2015-11-29 10:04:20,451 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/test/arquillian-test-api/1.0.0.CR4/arquillian-test-api-1.0.0.CR4.jar
+2015-11-29 10:04:20,600 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/test/arquillian-test-api/1.0.0.CR4/arquillian-test-api-1.0.0.CR4.jar
+2015-11-29 10:04:20,762 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/core/arquillian-core-api/1.0.0.CR4/arquillian-core-api-1.0.0.CR4.jar
+2015-11-29 10:04:20,913 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/core/arquillian-core-api/1.0.0.CR4/arquillian-core-api-1.0.0.CR4.jar
+2015-11-29 10:04:21,079 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/test/arquillian-test-spi/1.0.0.CR4/arquillian-test-spi-1.0.0.CR4.jar
+2015-11-29 10:04:21,364 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/test/arquillian-test-spi/1.0.0.CR4/arquillian-test-spi-1.0.0.CR4.jar
+2015-11-29 10:04:21,525 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/core/arquillian-core-spi/1.0.0.CR4/arquillian-core-spi-1.0.0.CR4.jar
+2015-11-29 10:04:21,686 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/core/arquillian-core-spi/1.0.0.CR4/arquillian-core-spi-1.0.0.CR4.jar
+2015-11-29 10:04:21,851 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-api/1.0.0-beta-5/shrinkwrap-api-1.0.0-beta-5.jar
+2015-11-29 10:04:22,166 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-api/1.0.0-beta-5/shrinkwrap-api-1.0.0-beta-5.jar
+2015-11-29 10:04:22,326 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-test-api/1.0.0.CR4/arquillian-container-test-api-1.0.0.CR4.jar
+2015-11-29 10:04:22,485 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-test-api/1.0.0.CR4/arquillian-container-test-api-1.0.0.CR4.jar
+2015-11-29 10:04:22,651 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-test-spi/1.0.0.CR4/arquillian-container-test-spi-1.0.0.CR4.jar
+2015-11-29 10:04:22,815 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-test-spi/1.0.0.CR4/arquillian-container-test-spi-1.0.0.CR4.jar
+2015-11-29 10:04:22,977 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-spi/1.0.0.CR4/arquillian-container-spi-1.0.0.CR4.jar
+2015-11-29 10:04:23,284 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-spi/1.0.0.CR4/arquillian-container-spi-1.0.0.CR4.jar
+2015-11-29 10:04:23,442 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-api/1.1.0-alpha-2/shrinkwrap-descriptors-api-1.1.0-alpha-2.jar
+2015-11-29 10:04:23,595 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-api/1.1.0-alpha-2/shrinkwrap-descriptors-api-1.1.0-alpha-2.jar
+2015-11-29 10:04:23,758 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/core/arquillian-core-impl-base/1.0.0.CR4/arquillian-core-impl-base-1.0.0.CR4.jar
+2015-11-29 10:04:24,055 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/core/arquillian-core-impl-base/1.0.0.CR4/arquillian-core-impl-base-1.0.0.CR4.jar
+2015-11-29 10:04:24,216 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/test/arquillian-test-impl-base/1.0.0.CR4/arquillian-test-impl-base-1.0.0.CR4.jar
+2015-11-29 10:04:24,390 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/test/arquillian-test-impl-base/1.0.0.CR4/arquillian-test-impl-base-1.0.0.CR4.jar
+2015-11-29 10:04:24,554 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-impl-base/1.0.0.CR4/arquillian-container-impl-base-1.0.0.CR4.jar
+2015-11-29 10:04:24,863 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-impl-base/1.0.0.CR4/arquillian-container-impl-base-1.0.0.CR4.jar
+2015-11-29 10:04:25,018 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/config/arquillian-config-api/1.0.0.CR4/arquillian-config-api-1.0.0.CR4.jar
+2015-11-29 10:04:25,187 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/config/arquillian-config-api/1.0.0.CR4/arquillian-config-api-1.0.0.CR4.jar
+2015-11-29 10:04:25,334 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/config/arquillian-config-impl-base/1.0.0.CR4/arquillian-config-impl-base-1.0.0.CR4.jar
+2015-11-29 10:04:25,496 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/config/arquillian-config-impl-base/1.0.0.CR4/arquillian-config-impl-base-1.0.0.CR4.jar
+2015-11-29 10:04:25,678 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-spi/1.1.0-alpha-2/shrinkwrap-descriptors-spi-1.1.0-alpha-2.jar
+2015-11-29 10:04:25,839 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-spi/1.1.0-alpha-2/shrinkwrap-descriptors-spi-1.1.0-alpha-2.jar
+2015-11-29 10:04:26,003 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-test-impl-base/1.0.0.CR4/arquillian-container-test-impl-base-1.0.0.CR4.jar
+2015-11-29 10:04:26,492 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/container/arquillian-container-test-impl-base/1.0.0.CR4/arquillian-container-test-impl-base-1.0.0.CR4.jar
+2015-11-29 10:04:26,668 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-impl-base/1.0.0-beta-5/shrinkwrap-impl-base-1.0.0-beta-5.jar
+2015-11-29 10:04:27,430 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-impl-base/1.0.0-beta-5/shrinkwrap-impl-base-1.0.0-beta-5.jar
+2015-11-29 10:04:27,580 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-spi/1.0.0-beta-5/shrinkwrap-spi-1.0.0-beta-5.jar
+2015-11-29 10:04:27,732 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-spi/1.0.0-beta-5/shrinkwrap-spi-1.0.0-beta-5.jar
+2015-11-29 10:04:28,320 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.4.3/maven-surefire-plugin-2.4.3.pom
+2015-11-29 10:04:28,488 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.4.3/maven-surefire-plugin-2.4.3.pom
+2015-11-29 10:04:28,649 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.4.3/surefire-2.4.3.pom
+2015-11-29 10:04:28,804 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.4.3/surefire-2.4.3.pom
+2015-11-29 10:04:28,973 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/7/maven-parent-7.pom
+2015-11-29 10:04:29,125 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/7/maven-parent-7.pom
+2015-11-29 10:04:29,291 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.1.1/maven-war-plugin-2.1.1.pom
+2015-11-29 10:04:29,448 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.1.1/maven-war-plugin-2.1.1.pom
+2015-11-29 10:04:29,693 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.1/maven-archiver-2.4.1.pom
+2015-11-29 10:04:29,844 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.1/maven-archiver-2.4.1.pom
+2015-11-29 10:04:30,003 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/15/maven-shared-components-15.pom
+2015-11-29 10:04:30,152 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/15/maven-shared-components-15.pom
+2015-11-29 10:04:30,311 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/1.0/plexus-archiver-1.0.pom
+2015-11-29 10:04:30,466 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/1.0/plexus-archiver-1.0.pom
+2015-11-29 10:04:30,632 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/1.0/plexus-io-1.0.pom
+2015-11-29 10:04:30,781 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/1.0/plexus-io-1.0.pom
+2015-11-29 10:04:30,941 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/1.2/plexus-archiver-1.2.pom
+2015-11-29 10:04:31,091 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/1.2/plexus-archiver-1.2.pom
+2015-11-29 10:04:31,260 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom
+2015-11-29 10:04:31,425 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom
+2015-11-29 10:04:31,604 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/1.0.1/plexus-io-1.0.1.pom
+2015-11-29 10:04:31,824 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/1.0.1/plexus-io-1.0.1.pom
+2015-11-29 10:04:32,012 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.1/maven-archiver-2.4.1.jar
+2015-11-29 10:04:32,192 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.1/maven-archiver-2.4.1.jar
+2015-11-29 10:04:32,345 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/1.2/plexus-archiver-1.2.jar
+2015-11-29 10:04:33,116 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/1.2/plexus-archiver-1.2.jar
+2015-11-29 10:04:33,280 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/1.0.1/plexus-io-1.0.1.jar
+2015-11-29 10:04:33,934 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/1.0.1/plexus-io-1.0.1.jar
+2015-11-29 10:04:34,339 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loja/src/main/java
+2015-11-29 10:04:34,340 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loja/src/main/resources
+2015-11-29 10:04:34,342 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loja/src/test/java
+2015-11-29 10:04:34,342 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loja/src/test/resources
+2015-11-29 10:04:36,339 [Worker-59] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 46 sec
+2015-11-29 10:04:39,017 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:04:39,018 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-29 10:04:39,029 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:04:39,030 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-29 10:05:54,623 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/pedro/workspace/loja
+2015-11-29 10:05:54,623 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-11-29 10:06:03,453 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:06:03,453 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 10:06:03,456 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:06:03,456 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 10:13:14,856 [Worker-73] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:loja:0.0.1-SNAPSHOT @ /home/pedro/workspace/loja/pom.xml.
+2015-11-29 10:13:16,023 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:13:16,024 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 10:13:16,026 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:13:16,026 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 10:13:16,027 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of loja
+2015-11-29 10:13:16,029 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for loja
+2015-11-29 10:13:16,038 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.7.Final is missing, no dependency information available
+2015-11-29 10:13:16,041 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.7.Final: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.7.Final or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.7.Final has not been downloaded from it before.
+2015-11-29 10:13:16,043 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.7.Final is missing, no dependency information available
+2015-11-29 10:13:16,044 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.7.Final: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.7.Final or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.7.Final has not been downloaded from it before.
+2015-11-29 10:13:16,052 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:13:32,631 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/pedro/workspace/loja
+2015-11-29 10:13:32,631 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-11-29 10:13:37,303 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:13:37,304 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 10:13:37,307 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:13:37,307 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 10:18:34,954 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/pedro/workspace/loja
+2015-11-29 10:18:34,954 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-11-29 10:18:39,434 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:18:39,435 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 10:18:39,437 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:18:39,437 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 10:18:45,457 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:loja:0.0.1-SNAPSHOT @ /home/pedro/workspace/loja/pom.xml.
+2015-11-29 10:18:46,343 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:18:46,344 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 10:18:46,345 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:18:46,346 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 10:18:46,346 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of loja
+2015-11-29 10:18:46,346 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for loja
+2015-11-29 10:18:46,348 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.7.Final is missing, no dependency information available
+2015-11-29 10:18:46,349 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.7.Final: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.7.Final or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.7.Final has not been downloaded from it before.
+2015-11-29 10:18:46,351 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.7.Final is missing, no dependency information available
+2015-11-29 10:18:46,352 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.7.Final: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.7.Final or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.7.Final has not been downloaded from it before.
+2015-11-29 10:18:46,355 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:18:49,615 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/pedro/workspace/loja
+2015-11-29 10:18:49,615 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-11-29 10:18:53,957 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:18:53,957 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 10:18:53,959 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:18:53,960 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 10:23:40,989 [Worker-76] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:loja:0.0.1-SNAPSHOT @ /home/pedro/workspace/loja/pom.xml.
+2015-11-29 10:23:42,028 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:23:42,029 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 10:23:42,031 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:23:42,031 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 10:23:42,032 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of loja
+2015-11-29 10:23:42,032 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for loja
+2015-11-29 10:23:42,036 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.7.Final is missing, no dependency information available
+2015-11-29 10:23:42,037 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.7.Final: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.7.Final or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.7.Final has not been downloaded from it before.
+2015-11-29 10:23:42,039 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.7.Final is missing, no dependency information available
+2015-11-29 10:23:42,040 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.7.Final: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.7.Final or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.7.Final has not been downloaded from it before.
+2015-11-29 10:23:42,044 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:24:07,154 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/pedro/workspace/loja
+2015-11-29 10:24:07,154 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-11-29 10:24:11,668 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:24:11,669 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 10:24:11,671 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 10:24:11,671 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-29 10:26:46,318 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-11-29 10:26:57,559 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-11-29 10:27:23,903 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/pedro/workspace/loja
+2015-11-29 10:27:23,903 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package jbossas:deploy
+2015-11-29 10:28:22,031 [Worker-84] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/pedro/workspace/loja
+2015-11-29 10:28:22,031 [Worker-84] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B generate-sources
+2015-11-29 10:28:30,082 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-11-29 10:28:49,049 [Worker-76] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/pedro/workspace/loja
+2015-11-29 10:28:49,050 [Worker-76] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package jboss-as:deploy
+2015-11-29 10:30:33,215 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-11-29 10:30:50,971 [Worker-84] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/pedro/workspace/loja
+2015-11-29 10:30:50,972 [Worker-84] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jboss-as:undeploy
+2015-11-29 10:32:12,513 [Worker-84] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/pedro/workspace/loja
+2015-11-29 10:32:12,513 [Worker-84] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package jbossas:deploy
+2015-11-29 10:32:30,470 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/pedro/workspace/loja
+2015-11-29 10:32:30,471 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package jboss-as:deploy

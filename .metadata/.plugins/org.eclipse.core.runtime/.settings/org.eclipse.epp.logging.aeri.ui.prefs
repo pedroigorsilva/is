@@ -1,5 +1,5 @@
-action=ASK
-configured=false
+action=IGNORE
+configured=true
 eclipse.preferences.version=1
-problemsZipEtag="1eec7d-52145ac41b280"
+problemsZipEtag="dab6e-524f530086fc0"
 rememberSendAction=NONE

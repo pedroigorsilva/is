@@ -1,9 +1,0 @@
-package br.unibh.servicospessoas.persistencia;
-
-import java.math.BigInteger;
-
-import br.unibh.servicospessoas.entidades.CEP;
-
-public class CEPDAO implements DAO<CEP, BigInteger> {
-
-}

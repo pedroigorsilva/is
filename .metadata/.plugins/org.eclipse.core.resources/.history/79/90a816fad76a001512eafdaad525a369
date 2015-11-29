@@ -1,5 +1,0 @@
-package br.unibh.servicospessoas.persistencia;
-
-public class PessoaFisicaDAO {
-
-}
